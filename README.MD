@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Listagem Pokemon" src=".github/preview.png" width="100%">
+  <img alt="projeto Listagem Pokemon" src="preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
